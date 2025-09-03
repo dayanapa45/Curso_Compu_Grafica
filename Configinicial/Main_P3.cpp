@@ -22,7 +22,7 @@ int main() {
     glfwInit();
 
     glfwWindowHint(GLFW_RESIZABLE, GL_FALSE);
-    GLFWwindow* window = glfwCreateWindow(WIDTH, HEIGHT, "Práctica 3 - Dayana Plata Alvarez (grupo 7)", nullptr, nullptr);
+    GLFWwindow* window = glfwCreateWindow(WIDTH, HEIGHT, "Práctica 3 - Dayana Plata Alvarez (ejemplo)", nullptr, nullptr);
 
     int screenWidth, screenHeight;
     glfwGetFramebufferSize(window, &screenWidth, &screenHeight);
