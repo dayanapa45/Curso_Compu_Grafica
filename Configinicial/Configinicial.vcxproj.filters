@@ -31,7 +31,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Prac4_ModeladoGeo.cpp">
+    <ClCompile Include="Modelado_Jerarquico.cpp">
       <Filter>Resource Files\Shader</Filter>
     </ClCompile>
   </ItemGroup>
