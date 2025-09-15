@@ -31,7 +31,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Modelado_Jerarquico.cpp">
+    <ClCompile Include="Practica5_Dayana_Plata.cpp">
       <Filter>Resource Files\Shader</Filter>
     </ClCompile>
   </ItemGroup>
