@@ -46,8 +46,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Iluminacion.cpp">
-      <Filter>Resource Files\Shader</Filter>
+    <ClCompile Include="fuentesDeLuz.cpp">
+      <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
