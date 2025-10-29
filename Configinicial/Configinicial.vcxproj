@@ -23,11 +23,11 @@
     <ClInclude Include="Shader.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Previo2_Dibujo2D.cpp" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="..\..\..\..\Downloads\Dibujo de Primitivas 2D\Shader\core.frag" />
     <None Include="..\..\..\..\Downloads\Dibujo de Primitivas 2D\Shader\core.vs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Practica2_Dibujo2D.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
