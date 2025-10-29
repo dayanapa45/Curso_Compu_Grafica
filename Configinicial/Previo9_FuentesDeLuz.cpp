@@ -1,5 +1,6 @@
-//Alumna: Dayana Plata Alvarez 
-// Previo 9 
+// Alumna: Dayana Plata Alvarez 
+// Previo 9: Fuentes de Luz
+// Grupo:07 
 // Fecha de entrega: Octubre 14 del 2025
 // No. cuenta 318300764 
 

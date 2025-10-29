@@ -1,4 +1,4 @@
-﻿// Practica: Animaciones Basicas en Open GL 
+﻿// Practica 10: Animaciones Basicas en Open GL 
 // Laboratorio de computacion grafica
 // GPO: 07 
 // Dayana Plata Alvarez 
