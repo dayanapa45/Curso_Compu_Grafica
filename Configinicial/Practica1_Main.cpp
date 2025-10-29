@@ -1,3 +1,8 @@
+// Practica 1 Configuracion Inicial 
+// Alumna: Dayana Plata Alvarez
+// GPO: 07 
+// Numero de cuenta: 318300764 
+// Fecha de Entrega: 17 de Agosto del 2025 
 #include<iostream>
 
 //#define GLEW_STATIC
