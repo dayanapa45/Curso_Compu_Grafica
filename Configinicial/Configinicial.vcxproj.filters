@@ -13,9 +13,6 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Resource Files\Shader">
-      <UniqueIdentifier>{a57baf0a-2aee-499c-afca-bb93511ded37}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Shader.h">
@@ -26,28 +23,16 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Shader\modelLoading.frag">
-      <Filter>Resource Files\Shader</Filter>
-    </None>
-    <None Include="Shader\modelLoading.vs">
-      <Filter>Resource Files\Shader</Filter>
-    </None>
-    <None Include="Shader\lamp.frag">
-      <Filter>Resource Files\Shader</Filter>
-    </None>
-    <None Include="Shader\lamp.vs">
-      <Filter>Resource Files\Shader</Filter>
-    </None>
-    <None Include="Shader\lighting.frag">
-      <Filter>Resource Files\Shader</Filter>
-    </None>
-    <None Include="Shader\lighting.vs">
-      <Filter>Resource Files\Shader</Filter>
-    </None>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="Main.cpp">
+    <ClCompile Include="Previo2_Dibujo2D.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\Downloads\Dibujo de Primitivas 2D\Shader\core.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\..\..\..\Downloads\Dibujo de Primitivas 2D\Shader\core.vs">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
