@@ -23,15 +23,27 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\..\..\Downloads\Dibujo de Primitivas 2D\Shader\core.frag">
+    <None Include="Shader\lamp.frag">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="..\..\..\..\Downloads\Dibujo de Primitivas 2D\Shader\core.vs">
+    <None Include="Shader\lamp.vs">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Shader\lighting.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Shader\lighting.vs">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Shader\modelLoading.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Shader\modelLoading.vs">
       <Filter>Resource Files</Filter>
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Practica2_Dibujo2D.cpp">
+    <ClCompile Include="Previo_12KeyFrames.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
